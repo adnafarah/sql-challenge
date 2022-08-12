@@ -1,7 +1,7 @@
 # sql-challenge
 
 
-This project analyses a corporation's employees data that is contained within 6 CSV files, and called for a mix of data modeling, data engineering, and data analysis. 
+This project analyses a corporation's employees data that is contained within 6 CSV files, and called for a mix of data modeling, data engineering, and data analysis. This was all completed in PostgreSQL.
 
 Here I:
 
@@ -29,7 +29,7 @@ The questions answered about the data are as follows:
 8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
 
 
-The entity relationship diagram (ERD) is under 'EmployeeSQL' (employees_ERD.png)
-The analysis is under 'EmployeeSQL' (queries.sql)
-The table schemata is under 'EmployeeSQL' (table_schemata.sql)
-The CSV files are under 'EmplyeeSQL\data'
+- The entity relationship diagram (ERD) is under 'EmployeeSQL' (employees_ERD.png).
+- The analysis is under 'EmployeeSQL' (queries.sql).
+- The table schemata is under 'EmployeeSQL' (table_schemata.sql).
+- The CSV files are under 'EmplyeeSQL\data'.
