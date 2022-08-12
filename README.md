@@ -1,7 +1,5 @@
 # sql-challenge
 
-# sql-challenge
-
 
 This project analyses a corporation's employees data that is contained within 6 CSV files, and called for a mix of data modeling, data engineering, and data analysis. 
 
